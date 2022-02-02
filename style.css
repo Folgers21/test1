@@ -1,0 +1,31 @@
+
+
+
+
+body{
+  
+  background-color: purple;
+  color: gold;
+  font-family: Helvetica;
+  margin:10% 20%
+    
+}
+
+.exp-header{
+  text-align:center;
+  text-transform:uppercase;
+  border-left:1px solid gold;
+  border-right:1px solid gold;
+  border-top: 1px solid gold;
+  border-bottom:1px solid gold;
+  background-color: rgb(0,0,0,0.255)
+}
+.edu{
+  text-align:center;
+  text-transform:uppercase;
+  border-left:1px solid gold;
+ border-right:1px solid gold;
+  border-top:1px solid gold;
+  border-bottom:1px solid gold;
+  background-color: rgb(0,0,0,0.255)
+}
